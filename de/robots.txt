@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://schutzmaske.at/sitemap.xml
+Sitemap: https://goodthings4u.com/sitemap.xml
